@@ -8,17 +8,24 @@
 
 
 
-
-
 /*
 
         MAIN
 
 */
 
+.number{
+        width: 6.25rem;
+        height: 6.25rem;
+        background-color: white;
+        border: 2px solid black;
+        text-align: center;
+}
 
-
-
+.randomic-numbers > .number > *{
+        justify-content: center;
+        align-items: center;
+}
 
 
 
